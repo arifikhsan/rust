@@ -1,0 +1,8 @@
+[package]
+name = "hero_api"
+version = "0.1.0"
+authors = ["Arif Ikhsanudin <arif.ikhsanudin.id@gmail.com>"]
+
+[dependencies]
+rocket = "0.3.6"
+rocket_codegen = "0.3.6"
